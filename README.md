@@ -1,6 +1,6 @@
 # Criando um Blog com Angular
 <h1 align="center">
-    <img alt="Angular Blog" src="img/home.png" width="300px" />
+    <img alt="Angular Blog" src="/img/home.png" width="300px" />
 </h1>
 
 ## Descrição do Projeto
