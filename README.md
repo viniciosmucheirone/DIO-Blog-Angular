@@ -53,9 +53,6 @@ angular-blog/
 ---
 
 ## 🖼️ Imagens do Blog
-
-Aqui você pode adicionar capturas de tela ou imagens do seu blog em funcionamento. Exemplo:
-
 #### 1. **Tela Principal do Blog**
 <h1 align="center">
     <img alt="Tela Principal" src="img/page1.png" "/>
