@@ -29,7 +29,7 @@ O projeto é uma excelente base para quem deseja aprender mais sobre o **framewo
 ## 📁 Estrutura do Projeto
 
 Aqui está uma visão geral da estrutura de diretórios do projeto:
-
+```
 angular-blog/
 ├── src/
 │   ├── app/               # Código-fonte da aplicação
@@ -41,6 +41,7 @@ angular-blog/
 │   ├── polyfills.ts       # Polyfills para suportar diferentes navegadores
 │   └── styles.css         # Arquivo global de estilos CSS
 └── angular.json           # Configurações do Angular CLI
+```
 ---
  
 ## Funcionalidades Implementadas:
