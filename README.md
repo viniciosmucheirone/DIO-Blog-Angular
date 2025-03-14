@@ -5,7 +5,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma aplicação de um **blog** construída utilizando **Angular**. Foi gerado com o Angular CLI na versão 14.1.2. O objetivo principal foi criar uma plataforma simples de blog com funcionalidades essenciais como exibição de postagens e navegação entre as páginas. A aplicação também foi projetada para ser responsiva, garantindo que o layout se ajuste a diferentes dispositivos.
+Este projeto é um desenvolvimento de um **blog** construído utilizando **Angular**. Foi gerado com o Angular CLI na versão 14.1.2. O objetivo principal foi criar uma plataforma simples de blog com funcionalidades essenciais como exibição de postagens e navegação entre as páginas. A aplicação também foi projetada para ser responsiva, garantindo que o layout se ajuste a diferentes dispositivos.
 
 ### 🎯 Objetivos do Projeto
 
@@ -47,7 +47,6 @@ angular-blog/
 ## Funcionalidades Implementadas:
 
 - Exibição de postagens: A aplicação exibe uma lista de postagens de forma dinâmica.
-- Formulários de criação de postagens: Possibilidade de criar novas postagens através de um formulário simples.
 - Roteamento: Navegação entre diferentes páginas de postagens e páginas do blog.
 - Responsividade: O design da aplicação se adapta para diferentes dispositivos, garantindo uma boa experiência de uso em qualquer tela.
 
@@ -110,7 +109,6 @@ Para construir o projeto para produção, execute o seguinte comando:
 ng build
 ```
 ## 🏁 Conclusão
-Este projeto foi uma excelente oportunidade para praticar o uso do Angular e entender melhor sua arquitetura, incluindo como configurar rotas, criar componentes e gerenciar estado com RxJS. Embora tenha enfrentado desafios ao lidar com a responsividade e a integração do roteamento, o processo foi uma excelente forma de aprimorar minhas habilidades e aprender novas abordagens para problemas comuns em desenvolvimento web.
-
+Este projeto foi uma excelente oportunidade para praticar o uso do Angular e entender melhor sua arquitetura, incluindo como configurar rotas e criar componentes. Embora tenha enfrentado desafios ao lidar com a responsividade e a integração do roteamento, o processo foi uma excelente forma de aprimorar minhas habilidades e aprender novas abordagens para problemas comuns em desenvolvimento web.
 Com a implementação do blog, consegui integrar todos os conceitos de desenvolvimento front-end que são essenciais em muitas aplicações modernas, como design responsivo, interatividade com o usuário e boas práticas de codificação. Ao final, o projeto é uma boa base para evoluir para um sistema mais complexo no futuro.
 
