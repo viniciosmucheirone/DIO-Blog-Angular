@@ -30,8 +30,17 @@ O projeto é uma excelente base para quem deseja aprender mais sobre o **framewo
 
 Aqui está uma visão geral da estrutura de diretórios do projeto:
 
-angular-blog/ ├── src/ │ ├── app/ # Código-fonte da aplicação │ ├── assets/ # Arquivos estáticos (imagens, fontes, etc.) │ ├── environments/ # Configurações de ambiente │ ├── favicon.ico # Ícone do site │ ├── index.html # Página principal │ ├── main.ts # Arquivo principal para inicialização do Angular │ ├── polyfills.ts # Polyfills para suportar diferentes navegadores │ └── styles.css # Arquivo global de estilos CSS └── angular.json # Configurações do Angular CLI
-
+angular-blog/
+├── src/
+│   ├── app/               # Código-fonte da aplicação
+│   ├── assets/            # Arquivos estáticos (imagens, fontes, etc.)
+│   ├── environments/      # Configurações de ambiente
+│   ├── favicon.ico        # Ícone do site
+│   ├── index.html         # Página principal
+│   ├── main.ts            # Arquivo principal para inicialização do Angular
+│   ├── polyfills.ts       # Polyfills para suportar diferentes navegadores
+│   └── styles.css         # Arquivo global de estilos CSS
+└── angular.json           # Configurações do Angular CLI
 ---
  
 ## Funcionalidades Implementadas:
